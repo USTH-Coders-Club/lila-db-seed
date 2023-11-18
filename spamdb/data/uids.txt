@@ -1,0 +1,84 @@
+# passwords in this file will override the command line parameter.
+# anything following the / is considered part of the password until
+# the first white space. example:
+#
+# gregory/password123456
+#
+# if your instance will be exposed, use the --su-password command line
+# argument for the 6 special users: superadmin, admin, shusher, hunter,
+# puzzler, & api.  setting them here will also work.
+#
+# take care not to accidentally include this modified file with your
+# passwords in a PR because I will merge it immediately
+
+superadmin/superadmin
+ntlam/tranvanb
+nnvuong/tranvanb
+httam/tranvanb
+tvhuy/tranvanb
+nnquang/tranvanb
+nmduc/tranvanb
+lgkhoa/tranvanb
+hdtu/tranvanb
+vtsi/tranvanb
+bdminh/tranvanb
+lmaquoc/tranvanb
+nltung23bi14447/tranvanb
+dmtien/tranvanb
+nklinh/tranvanb
+pncuong/tranvanb
+lqanh/tranvanb
+ntkhai/tranvanb
+htminh/tranvanb
+htson/tranvanb
+nvthang/tranvanb
+dqtrung/tranvanb
+ntdung/tranvanb
+nvakhoa/tranvanb
+hpanh/tranvanb
+dtson/tranvanb
+tqminh/tranvanb
+dcminh/tranvanb
+pmdat/tranvanb
+bmquan/tranvanb
+ndqminh/tranvanb
+ltphong/tranvanb
+ptlong/tranvanb
+nhbach/tranvanb
+ntkhang/tranvanb
+tgluan/tranvanb
+ndhien/tranvanb
+vvtduc/tranvanb
+tqhung/tranvanb
+lhquan/tranvanb
+nltung23bi14446/tranvanb
+nhtkhoa/tranvanb
+nhtrung/tranvanb
+dttien/tranvanb
+nhtminh/tranvanb
+lnchiep/tranvanb
+clnanh/tranvanb
+pdaduong/tranvanb
+dtluan/tranvanb
+dmduy/tranvanb
+nqkhanh/tranvanb
+nmdong/tranvanb
+ttnghia/tranvanb
+ncdung/tranvanb
+ntmtuan/tranvanb
+nhduc/tranvanb
+nlhphuc/tranvanb
+nmquang/tranvanb
+pmhieu/tranvanb
+pqnghia/tranvanb
+vhanh/tranvanb
+vnvinh/tranvanb
+dnkhanh/tranvanb
+vtkien/tranvanb
+ndhoang/tranvanb
+ldthang/tranvanb
+ndanh/tranvanb
+dqminh/tranvanb
+dhtson/tranvanb
+nhlan/tranvanb
+tqdat/tranvanb
